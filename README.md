@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hello! my name is Edward Kome, and am a DEveloper. 
+
+### Welcome to my world!
 
 <!--
 **KoomeA/KoomeA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
