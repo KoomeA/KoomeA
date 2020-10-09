@@ -1,4 +1,4 @@
-## Hello! my name is Edward Kome, and am a DEveloper. 
+## Hello! my name is Edward Kome, and am a Developer. 
 
 ### Welcome to my world!
 
