@@ -1,5 +1,7 @@
 ## Hello! my name is Edward Koome, and am a Developer. 
-
+- I am Currently learning Python and JavaScript.
+- AM currently on the ALX Software Engineering program. 
+- Am exploring Cybersecurity and Web3.
 <!--
 **KoomeA/KoomeA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
