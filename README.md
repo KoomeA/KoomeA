@@ -2,7 +2,7 @@
 - Python and JavaScript are the main languages am continuously learning
 - AM currently on the ALX Software Engineering program
 - I am a Cybersecurity enthusiast which am always exploring ('future' career) and recently Web3
-- Current CS student at IU INternational UNiversity of Applied Sciences.
+- Current CS student at IU International University of Applied Sciences.
 <!--
 **KoomeA/KoomeA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
