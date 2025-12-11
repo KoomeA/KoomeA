@@ -37,7 +37,6 @@ I enjoy designing systems that solve real problems—scalable, secure, and built
 - **Social Media Management SaaS** – Kenyan/African-tailored platform for agencies & businesses  
 - **Investment Platform** – Automated interest, statements, and user wallets  
 - **CV Extraction & Processing Tools** – Using AI and OCR for recruitment workflows  
-- **Peponi Villas Phase 2 PropTech Site** – Real estate booking & marketing platform
 
 ---
 
