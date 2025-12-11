@@ -60,9 +60,9 @@ I believe in creating solutions that are simple, scalable, and transformative—
 ## 📫 Let's Connect
 
 - **Website (Prosdian Ltd):** https://www.prosdian.com  
-- **LinkedIn:** [Your LinkedIn URL]  
+- **LinkedIn:** https://www.linkedin.com/in/edward-koome/
 - **GitHub:** You’re already here—explore my repositories below.  
-- **Email:** [Your professional email]  
+- **Email:** koome@prosdian.com  
 
 ---
 
